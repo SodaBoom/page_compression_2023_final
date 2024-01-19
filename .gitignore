@@ -1,0 +1,14 @@
+*.ibd
+*.swp
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+bin/
+data/
+cmake-build-*
+.idea
+.vscode
+page_engine.zip
+/build/
+/【PPT模板】第5届天池全球数据库大赛
